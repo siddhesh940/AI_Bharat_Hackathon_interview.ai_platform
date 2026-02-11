@@ -13,7 +13,7 @@
 
 **Interview.ai** is a comprehensive, enterprise-grade interview preparation platform that combines AI-powered mock interviews, gamified learning, aptitude training, soft skills development, resume building, and placement tracking into one seamless experience.
 
-🚀 [Live Demo](#) 
+🚀 [Live Demo](https://interview-ai-platform-topaz.vercel.app)
 
 ---
 
@@ -56,15 +56,15 @@ Interview.ai is designed to be the **ultimate interview preparation companion** 
 
 ### What Makes Interview.ai Special?
 
-| Feature | Description |
-|---------|-------------|
-| 🤖 **AI Voice Interviews** | Realistic mock interviews with AI interviewers that adapt to your responses |
-| 🎮 **Gamified Learning** | 6 interactive games that make learning interview skills fun |
-| 📚 **1000+ Questions** | Comprehensive question banks across aptitude, verbal, and logical reasoning |
+| Feature                      | Description                                                                   |
+| ---------------------------- | ----------------------------------------------------------------------------- |
+| 🤖 **AI Voice Interviews**   | Realistic mock interviews with AI interviewers that adapt to your responses   |
+| 🎮 **Gamified Learning**     | 6 interactive games that make learning interview skills fun                   |
+| 📚 **1000+ Questions**       | Comprehensive question banks across aptitude, verbal, and logical reasoning   |
 | 🏢 **Company-Specific Prep** | Tailored preparation for Accenture, TCS, Infosys, Cognizant, Wipro, CapGemini |
-| 📊 **Predictive Analytics** | Time Machine feature predicts your interview success probability |
-| 📄 **Smart Resume Builder** | ATS-optimized resume creation with AI suggestions |
-| 💼 **Live Placement Drives** | Real-time job opportunities with automated scraping |
+| 📊 **Predictive Analytics**  | Time Machine feature predicts your interview success probability              |
+| 📄 **Smart Resume Builder**  | ATS-optimized resume creation with AI suggestions                             |
+| 💼 **Live Placement Drives** | Real-time job opportunities with automated scraping                           |
 
 ### Platform Statistics
 
@@ -176,50 +176,50 @@ User Request → Next.js API → Service Layer → Database/External API → Res
 
 ### Frontend Technologies
 
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| **Next.js** | 14.2.4 | React framework with App Router |
-| **React** | 18.x | UI library |
-| **TypeScript** | 5.x | Type safety |
-| **TailwindCSS** | 3.3.0 | Utility-first styling |
-| **Shadcn/UI** | Latest | Component library |
-| **Framer Motion** | 11.3.21 | Animations |
-| **Radix UI** | Latest | Accessible primitives |
-| **NextUI** | 2.4.6 | Additional components |
-| **MUI** | 5.18.0 | Material Design components |
+| Technology        | Version | Purpose                         |
+| ----------------- | ------- | ------------------------------- |
+| **Next.js**       | 14.2.4  | React framework with App Router |
+| **React**         | 18.x    | UI library                      |
+| **TypeScript**    | 5.x     | Type safety                     |
+| **TailwindCSS**   | 3.3.0   | Utility-first styling           |
+| **Shadcn/UI**     | Latest  | Component library               |
+| **Framer Motion** | 11.3.21 | Animations                      |
+| **Radix UI**      | Latest  | Accessible primitives           |
+| **NextUI**        | 2.4.6   | Additional components           |
+| **MUI**           | 5.18.0  | Material Design components      |
 
 ### Backend Technologies
 
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| **Node.js** | 18+ | Runtime environment |
-| **Supabase** | 2.90.1 | PostgreSQL database + Auth |
-| **Clerk** | 5.7.5 | Authentication |
-| **Prisma** | 5.15.0 | ORM |
-| **OpenAI** | 4.6.0 | GPT-4 integration |
-| **LangChain** | 0.3.36 | LLM orchestration |
-| **Retell AI** | 4.19.0 | Voice AI interviews |
+| Technology    | Version | Purpose                    |
+| ------------- | ------- | -------------------------- |
+| **Node.js**   | 18+     | Runtime environment        |
+| **Supabase**  | 2.90.1  | PostgreSQL database + Auth |
+| **Clerk**     | 5.7.5   | Authentication             |
+| **Prisma**    | 5.15.0  | ORM                        |
+| **OpenAI**    | 4.6.0   | GPT-4 integration          |
+| **LangChain** | 0.3.36  | LLM orchestration          |
+| **Retell AI** | 4.19.0  | Voice AI interviews        |
 
 ### Development Tools
 
-| Tool | Purpose |
-|------|---------|
-| **ESLint** | Code linting |
-| **Prettier** | Code formatting |
-| **Docker** | Containerization |
-| **GitHub Actions** | CI/CD |
+| Tool               | Purpose          |
+| ------------------ | ---------------- |
+| **ESLint**         | Code linting     |
+| **Prettier**       | Code formatting  |
+| **Docker**         | Containerization |
+| **GitHub Actions** | CI/CD            |
 
 ### Additional Libraries
 
-| Library | Purpose |
-|---------|---------|
-| **Zustand** | State management |
-| **React Query** | Data fetching |
-| **Zod** | Schema validation |
-| **jsPDF** | PDF generation |
-| **html2canvas** | Screenshot capture |
+| Library          | Purpose                |
+| ---------------- | ---------------------- |
+| **Zustand**      | State management       |
+| **React Query**  | Data fetching          |
+| **Zod**          | Schema validation      |
+| **jsPDF**        | PDF generation         |
+| **html2canvas**  | Screenshot capture     |
 | **Tesseract.js** | OCR for resume parsing |
-| **Puppeteer** | Web scraping |
+| **Puppeteer**    | Web scraping           |
 
 ---
 
@@ -378,66 +378,80 @@ Interview.ai/
 ## 📸 Screenshots
 
 ### Dashboard
+
 ![Dashboard](Demo_Images/Dashboard.png)
-*Main dashboard showing interview statistics, progress tracking, and quick access to all features*
+_Main dashboard showing interview statistics, progress tracking, and quick access to all features_
 
 ### AI Mock Interview
+
 ![Create Interview](Demo_Images/Create%20Interview.png)
-*Interview creation interface with customizable settings*
+_Interview creation interface with customizable settings_
 
 ![Interview Call](Demo_Images/Call.png)
-*Live AI interview session with real-time transcription*
+_Live AI interview session with real-time transcription_
 
 ![Software Interview](Demo_Images/Software%20Start%20Interview.png)
-*Technical interview in progress*
+_Technical interview in progress_
 
 ### Aptitude Arena
+
 ![Aptitude Arena](Demo_Images/Aptitude%20Arena.png)
-*Comprehensive aptitude practice with 1000+ questions*
+_Comprehensive aptitude practice with 1000+ questions_
 
 ### Interactive Games
+
 ![Games](Demo_Images/Games.png)
-*Six gamified learning experiences for skill development*
+_Six gamified learning experiences for skill development_
 
 ### HR Interview Coach
+
 ![HR Interview Coach](Demo_Images/HR_Interview_Coach.png)
-*AI-powered HR interview preparation with answer evaluation*
+_AI-powered HR interview preparation with answer evaluation_
 
 ### Soft Skills Training
+
 ![Soft Skills](Demo_Images/Soft_Skill.png)
-*Comprehensive soft skills development module*
+_Comprehensive soft skills development module_
 
 ### Technical Practice Engine
+
 ![TechPrep](Demo_Images/TechPrep.png)
-*Code practice with Monaco editor and multiple domains*
+_Code practice with Monaco editor and multiple domains_
 
 ### Dream Company Station
+
 ![Dream Company](Demo_Images/Dream%20Company%20Station.png)
-*Company-specific preparation for top recruiters*
+_Company-specific preparation for top recruiters_
 
 ### Placement Drives
+
 ![Placement Drive](Demo_Images/Placement%20Drive.png)
-*Live placement opportunities with automated tracking*
+_Live placement opportunities with automated tracking_
 
 ### Resume Builder
+
 ![Resume Builder](Demo_Images/Resume%20Builder.png)
-*Professional ATS-friendly resume creation*
+_Professional ATS-friendly resume creation_
 
 ### Skill Autofill
+
 ![Skill Autofill](Demo_Images/Skill%20Autofill.png)
-*AI-powered skill extraction from resumes*
+_AI-powered skill extraction from resumes_
 
 ### Interview Resource Hub
+
 ![Interview Resources](Demo_Images/Interview%20Resource%20Hub.png)
-*30+ PDF resources for comprehensive preparation*
+_30+ PDF resources for comprehensive preparation_
 
 ### Time Machine Analytics
+
 ![Time Machine](Demo_Images/Time%20Machine.png%20.png)
-*Predictive analytics and progress tracking*
+_Predictive analytics and progress tracking_
 
 ### AI Question Generation
+
 ![Question Generation](Demo_Images/Question%20Generation.png)
-*Dynamic question generation using GPT-4*
+_Dynamic question generation using GPT-4_
 
 ---
 
@@ -484,16 +498,16 @@ Follow the guidelines below when conversing:
 
 #### Interview Types
 
-| Type | Duration | Questions | Best For |
-|------|----------|-----------|----------|
-| Quick | 5-10 min | 3-5 | Practice |
-| Standard | 15-20 min | 6-10 | Preparation |
-| Full | 25-30 min | 10-15 | Final prep |
+| Type     | Duration  | Questions | Best For    |
+| -------- | --------- | --------- | ----------- |
+| Quick    | 5-10 min  | 3-5       | Practice    |
+| Standard | 15-20 min | 6-10      | Preparation |
+| Full     | 25-30 min | 10-15     | Final prep  |
 
 #### Scoring System
 
 ```
-Overall Score = (Technical × 0.35) + (Communication × 0.30) + 
+Overall Score = (Technical × 0.35) + (Communication × 0.30) +
                 (Confidence × 0.20) + (Problem Solving × 0.15)
 ```
 
@@ -506,6 +520,7 @@ Multiple AI interviewer personas with unique characteristics.
 #### Available Interviewers
 
 ##### Explorer Lisa
+
 ```typescript
 {
   name: "Explorer Lisa",
@@ -519,6 +534,7 @@ Multiple AI interviewer personas with unique characteristics.
 ```
 
 ##### Empathetic Bob
+
 ```typescript
 {
   name: "Empathetic Bob",
@@ -526,19 +542,19 @@ Multiple AI interviewer personas with unique characteristics.
   exploration: 7,
   empathy: 10,
   speed: 5,
-  description: "Go-to empathetic interviewer. Excels at understanding and 
+  description: "Go-to empathetic interviewer. Excels at understanding and
                 connecting with people on a deeper level."
 }
 ```
 
 #### Interviewer Metrics Explained
 
-| Metric | Range | Description |
-|--------|-------|-------------|
-| **Rapport** | 1-10 | How well they build connection |
-| **Exploration** | 1-10 | Depth of follow-up questions |
-| **Empathy** | 1-10 | Understanding and supportiveness |
-| **Speed** | 1-10 | Pace of interview (1=slow, 10=fast) |
+| Metric          | Range | Description                         |
+| --------------- | ----- | ----------------------------------- |
+| **Rapport**     | 1-10  | How well they build connection      |
+| **Exploration** | 1-10  | Depth of follow-up questions        |
+| **Empathy**     | 1-10  | Understanding and supportiveness    |
+| **Speed**       | 1-10  | Pace of interview (1=slow, 10=fast) |
 
 #### Type Definition
 
@@ -567,13 +583,13 @@ Comprehensive training on interpersonal and communication skills.
 
 #### Skills Covered
 
-| Skill | Icon | Color | Topics |
-|-------|------|-------|--------|
-| **Communication** | MessageCircle | #4f46e5 | STAR method, clarity, structure |
-| **Confidence** | Award | #059669 | Power posing, mindset, preparation |
-| **Body Language** | Eye | #f59e0b | Posture, eye contact, gestures |
-| **Active Listening** | Ear | #ef4444 | Focus, paraphrasing, follow-ups |
-| **Professionalism** | Briefcase | #8b5cf6 | Etiquette, timing, respect |
+| Skill                | Icon          | Color   | Topics                             |
+| -------------------- | ------------- | ------- | ---------------------------------- |
+| **Communication**    | MessageCircle | #4f46e5 | STAR method, clarity, structure    |
+| **Confidence**       | Award         | #059669 | Power posing, mindset, preparation |
+| **Body Language**    | Eye           | #f59e0b | Posture, eye contact, gestures     |
+| **Active Listening** | Ear           | #ef4444 | Focus, paraphrasing, follow-ups    |
+| **Professionalism**  | Briefcase     | #8b5cf6 | Etiquette, timing, respect         |
 
 #### Learning Components
 
@@ -598,7 +614,7 @@ Each skill includes:
     'Resume building'
   ],
   correctAnswer: 'Structured responses',
-  explanation: 'STAR (Situation, Task, Action, Result) helps you give 
+  explanation: 'STAR (Situation, Task, Action, Result) helps you give
                 organized, impactful answers.'
 }
 ```
@@ -607,9 +623,9 @@ Each skill includes:
 
 ```typescript
 const PROGRESS_WEIGHTS = {
-  VIDEO_WATCHED: 10,      // +10% per video
-  CHECKLIST_ITEM: 5,      // +5% per checklist item
-  QUIZ_COMPLETED: 20,     // +20% for completing quiz
+  VIDEO_WATCHED: 10, // +10% per video
+  CHECKLIST_ITEM: 5, // +5% per checklist item
+  QUIZ_COMPLETED: 20, // +20% for completing quiz
 };
 ```
 
@@ -632,67 +648,67 @@ Dedicated module for HR round preparation with AI-powered answer evaluation and 
 #### Question Categories
 
 ```typescript
-type HRQuestionCategory = 
-  | 'personal'               // Introduction, goals, background
-  | 'strengths_weaknesses'   // Abilities, improvement areas
-  | 'behavioral'             // STAR method scenarios
-  | 'policy'                 // Salary, notice period, relocation
-  | 'situational'            // Hypothetical workplace scenarios
-  | 'company_specific';      // Company culture, why us
+type HRQuestionCategory =
+  | "personal" // Introduction, goals, background
+  | "strengths_weaknesses" // Abilities, improvement areas
+  | "behavioral" // STAR method scenarios
+  | "policy" // Salary, notice period, relocation
+  | "situational" // Hypothetical workplace scenarios
+  | "company_specific"; // Company culture, why us
 ```
 
 #### Interview Modes
 
-| Mode | Questions | Best For |
-|------|-----------|----------|
-| Quick | 3 | Confidence boost |
-| Standard | 8 | Balanced practice |
-| Full | 12 | Complete simulation |
-| Stress | 6 | Pressure handling |
+| Mode     | Questions | Best For            |
+| -------- | --------- | ------------------- |
+| Quick    | 3         | Confidence boost    |
+| Standard | 8         | Balanced practice   |
+| Full     | 12        | Complete simulation |
+| Stress   | 6         | Pressure handling   |
 
 #### AI Evaluation Criteria
 
 ```typescript
 const evaluationParameters = {
-  confidence: 20,          // Self-assurance in responses
-  communication: 25,       // Clarity and articulation
-  professionalTone: 15,    // Appropriate language
-  attitude: 20,            // Positive mindset
-  authenticity: 10,        // Genuine responses
-  redFlagCheck: 10         // Avoiding problematic patterns
+  confidence: 20, // Self-assurance in responses
+  communication: 25, // Clarity and articulation
+  professionalTone: 15, // Appropriate language
+  attitude: 20, // Positive mindset
+  authenticity: 10, // Genuine responses
+  redFlagCheck: 10, // Avoiding problematic patterns
 };
 ```
 
 #### Red Flags Detected
 
-| Red Flag | Description |
-|----------|-------------|
-| Negativity | Badmouthing employers, negative language |
-| Rigidity | "Never", "impossible", inflexibility |
-| Arrogance | Over-confidence, "I'm the best" |
-| Unrealistic | Extreme salary expectations |
-| Vagueness | "Maybe", "I guess", uncertainty |
+| Red Flag    | Description                              |
+| ----------- | ---------------------------------------- |
+| Negativity  | Badmouthing employers, negative language |
+| Rigidity    | "Never", "impossible", inflexibility     |
+| Arrogance   | Over-confidence, "I'm the best"          |
+| Unrealistic | Extreme salary expectations              |
+| Vagueness   | "Maybe", "I guess", uncertainty          |
 
 #### Answer Scoring Logic
 
 ```typescript
 // Base score starts at 50%
-baseScore += idealPointsMatched * 0.25;  // Ideal points contribution
-baseScore += specificityBonus;            // +10 for specific examples
-baseScore += structureBonus;              // +10 for good structure
-baseScore += starBonus;                   // +15 for STAR method
-baseScore -= redFlagPenalty;              // -15 per red flag
-baseScore -= vaguePenalty;                // -25 for vague answers
-baseScore -= tooShortPenalty;             // -30 if < 20 words
+baseScore += idealPointsMatched * 0.25; // Ideal points contribution
+baseScore += specificityBonus; // +10 for specific examples
+baseScore += structureBonus; // +10 for good structure
+baseScore += starBonus; // +15 for STAR method
+baseScore -= redFlagPenalty; // -15 per red flag
+baseScore -= vaguePenalty; // -25 for vague answers
+baseScore -= tooShortPenalty; // -30 if < 20 words
 ```
 
 #### Video Learning Sections
 
-| Section | Videos | Content |
-|---------|--------|---------|
-| HR Round Basics | 3 | Introduction, mindset, expectations |
-| Common Questions | 3 | Tell me about yourself, salary, etc. |
-| Confidence Tips | 3 | Body language, tone, delivery |
+| Section          | Videos | Content                              |
+| ---------------- | ------ | ------------------------------------ |
+| HR Round Basics  | 3      | Introduction, mindset, expectations  |
+| Common Questions | 3      | Tell me about yourself, salary, etc. |
+| Confidence Tips  | 3      | Body language, tone, delivery        |
 
 ---
 
@@ -703,46 +719,50 @@ Comprehensive library of interview preparation materials.
 #### Resource Categories
 
 ```typescript
-type PDFCategory = 
-  | 'programming-languages'     // Java, JavaScript, Python, C
-  | 'backend-frameworks'        // Node.js, Express.js, MongoDB
-  | 'databases-sql'             // DBMS, SQL Queries
-  | 'dsa-coding'                // Data Structures & Algorithms
-  | 'web-development'           // Frontend, Full Stack
-  | 'comprehensive-general';    // Mixed Materials
+type PDFCategory =
+  | "programming-languages" // Java, JavaScript, Python, C
+  | "backend-frameworks" // Node.js, Express.js, MongoDB
+  | "databases-sql" // DBMS, SQL Queries
+  | "dsa-coding" // Data Structures & Algorithms
+  | "web-development" // Frontend, Full Stack
+  | "comprehensive-general"; // Mixed Materials
 ```
 
 #### Available Resources (30+ PDFs)
 
 ##### Programming Languages
-| Resource | Difficulty | Tags |
-|----------|------------|------|
-| Java Interview Questions | Intermediate | Java, OOP, Core Java |
+
+| Resource                 | Difficulty   | Tags                      |
+| ------------------------ | ------------ | ------------------------- |
+| Java Interview Questions | Intermediate | Java, OOP, Core Java      |
 | 100 JavaScript Questions | Intermediate | JavaScript, ES6, Frontend |
-| 100 Python Questions | Intermediate | Python, Data Science |
-| C Programming Notes | Beginner | C, Basics |
-| CSS Interview Questions | Beginner | CSS, Styling |
-| HTML Interview Q&A | Beginner | HTML, Web |
+| 100 Python Questions     | Intermediate | Python, Data Science      |
+| C Programming Notes      | Beginner     | C, Basics                 |
+| CSS Interview Questions  | Beginner     | CSS, Styling              |
+| HTML Interview Q&A       | Beginner     | HTML, Web                 |
 
 ##### Backend & Frameworks
-| Resource | Difficulty | Tags |
-|----------|------------|------|
-| Node.js Interview Q&A | Intermediate | Node.js, Backend, API |
-| Express.js Interview Q&A | Intermediate | Express, REST, Middleware |
-| MongoDB Interview Questions | Intermediate | MongoDB, NoSQL |
-| MongoDB Basic to Advanced | Advanced | MongoDB, Advanced |
+
+| Resource                    | Difficulty   | Tags                      |
+| --------------------------- | ------------ | ------------------------- |
+| Node.js Interview Q&A       | Intermediate | Node.js, Backend, API     |
+| Express.js Interview Q&A    | Intermediate | Express, REST, Middleware |
+| MongoDB Interview Questions | Intermediate | MongoDB, NoSQL            |
+| MongoDB Basic to Advanced   | Advanced     | MongoDB, Advanced         |
 
 ##### Databases & SQL
-| Resource | Difficulty | Tags |
-|----------|------------|------|
-| DBMS Interview Guide | Intermediate | DBMS, SQL |
-| SQL Cheat Sheet | Beginner | SQL, Queries |
+
+| Resource             | Difficulty   | Tags         |
+| -------------------- | ------------ | ------------ |
+| DBMS Interview Guide | Intermediate | DBMS, SQL    |
+| SQL Cheat Sheet      | Beginner     | SQL, Queries |
 
 ##### DSA & Coding
-| Resource | Difficulty | Tags |
-|----------|------------|------|
-| Cracking the Coding Interview | Advanced | DSA, Algorithms |
-| Coding Practice Problems | Intermediate | Practice, Problems |
+
+| Resource                      | Difficulty   | Tags               |
+| ----------------------------- | ------------ | ------------------ |
+| Cracking the Coding Interview | Advanced     | DSA, Algorithms    |
+| Coding Practice Problems      | Intermediate | Practice, Problems |
 
 #### Resource Type Definition
 
@@ -751,7 +771,7 @@ interface PDFResource {
   id: string;
   title: string;
   category: PDFCategory;
-  difficulty: 'Beginner' | 'Intermediate' | 'Advanced';
+  difficulty: "Beginner" | "Intermediate" | "Advanced";
   tags: string[];
   filePath: string;
   fileName: string;
@@ -768,14 +788,14 @@ Six gamified learning experiences for interview skill development.
 
 #### Game List
 
-| Game | Subtitle | Skill | Time |
-|------|----------|-------|------|
-| **Fix the Bad Answer** | Correction Challenge | Communication | 15 mins |
-| **Keyword Hunt** | Fast Technical Recall | Technical | 5 mins |
-| **Rephrase Me** | Vocabulary Builder | Communication | 10 mins |
-| **Answer Builder** | Sentence Construction | Communication | 12 mins |
-| **Keyword Mapping** | Concept Matching | Technical | 8 mins |
-| **Truth or Bluff** | Fact Verification | Technical | 10 mins |
+| Game                   | Subtitle              | Skill         | Time    |
+| ---------------------- | --------------------- | ------------- | ------- |
+| **Fix the Bad Answer** | Correction Challenge  | Communication | 15 mins |
+| **Keyword Hunt**       | Fast Technical Recall | Technical     | 5 mins  |
+| **Rephrase Me**        | Vocabulary Builder    | Communication | 10 mins |
+| **Answer Builder**     | Sentence Construction | Communication | 12 mins |
+| **Keyword Mapping**    | Concept Matching      | Technical     | 8 mins  |
+| **Truth or Bluff**     | Fact Verification     | Technical     | 10 mins |
 
 #### Game Configurations
 
@@ -799,17 +819,18 @@ interface GameConfig {
 
 #### Difficulty Settings
 
-| Difficulty | Strictness | Time Bonus |
-|------------|------------|------------|
-| Beginner | 0.7x | 1.0x |
-| Intermediate | 1.0x | 1.2x |
-| Advanced | 1.3x | 1.5x |
+| Difficulty   | Strictness | Time Bonus |
+| ------------ | ---------- | ---------- |
+| Beginner     | 0.7x       | 1.0x       |
+| Intermediate | 1.0x       | 1.2x       |
+| Advanced     | 1.3x       | 1.5x       |
 
 #### Game 1: Fix the Bad Answer
 
 Transform weak interview responses into professional answers.
 
 **Example:**
+
 ```typescript
 {
   id: 'ba-hr-b1',
@@ -817,9 +838,9 @@ Transform weak interview responses into professional answers.
   difficulty: 'beginner',
   badAnswer: "I don't know much about it, honestly.",
   context: "Tell me about yourself",
-  idealAnswer: "I'm a dedicated professional with a strong foundation in 
-               [field]. I've developed my expertise through academic 
-               projects and practical experience, focusing on continuous 
+  idealAnswer: "I'm a dedicated professional with a strong foundation in
+               [field]. I've developed my expertise through academic
+               projects and practical experience, focusing on continuous
                learning and skill development.",
   keywords: ['dedicated', 'professional', 'expertise', 'experience'],
   skillFocus: 'communication',
@@ -831,6 +852,7 @@ Transform weak interview responses into professional answers.
 Arrange sentence blocks in the correct order using STAR method.
 
 **Example:**
+
 ```typescript
 {
   interviewQuestion: 'Describe a challenging project you worked on.',
@@ -842,8 +864,8 @@ Arrange sentence blocks in the correct order using STAR method.
     'I learned the importance of agile methodologies.',
   ],
   correctOrder: [0, 1, 2, 3, 4],
-  idealAnswer: 'The project had a tight two-week deadline. I led a team 
-               of four developers and implemented daily standups and 
+  idealAnswer: 'The project had a tight two-week deadline. I led a team
+               of four developers and implemented daily standups and
                sprint planning...'
 }
 ```
@@ -853,14 +875,15 @@ Arrange sentence blocks in the correct order using STAR method.
 Transform basic statements into professional language.
 
 **Example:**
+
 ```typescript
 {
   original: "I worked on some projects.",
-  idealRewrite: "I successfully planned and executed several academic 
-                and technical projects, taking responsibility for 
-                research, development, and delivery while collaborating 
+  idealRewrite: "I successfully planned and executed several academic
+                and technical projects, taking responsibility for
+                research, development, and delivery while collaborating
                 with my team to achieve strong outcomes.",
-  keyImprovements: ['Added specific details', 'Used action verbs', 
+  keyImprovements: ['Added specific details', 'Used action verbs',
                     'Showed responsibility'],
 }
 ```
@@ -870,12 +893,13 @@ Transform basic statements into professional language.
 Identify correct/incorrect statements.
 
 **Example:**
+
 ```typescript
 {
-  statement: 'Arriving 5-10 minutes early to an interview shows 
+  statement: 'Arriving 5-10 minutes early to an interview shows
              professionalism.',
   answer: 'correct',
-  explanation: 'Being slightly early demonstrates respect for the 
+  explanation: 'Being slightly early demonstrates respect for the
                interviewer\'s time and good planning.',
 }
 ```
@@ -889,40 +913,43 @@ Comprehensive aptitude training with 1000+ questions.
 #### Topics Covered
 
 ##### Quantitative Aptitude (10 Topics)
-| Topic | Questions | Description |
-|-------|-----------|-------------|
-| Number System | 10 | Prime, factors, HCF, LCM |
-| Percentages | 10 | Calculations, changes |
-| Profit & Loss | 10 | Business math |
-| Simple Interest | 10 | Time-value calculations |
-| Compound Interest | 10 | Exponential growth |
-| Ratio & Proportion | 10 | Comparisons |
-| Time & Work | 10 | Productivity problems |
-| Time, Speed & Distance | 10 | Motion problems |
-| Averages | 10 | Mean calculations |
-| Ages | 10 | Age-based problems |
+
+| Topic                  | Questions | Description              |
+| ---------------------- | --------- | ------------------------ |
+| Number System          | 10        | Prime, factors, HCF, LCM |
+| Percentages            | 10        | Calculations, changes    |
+| Profit & Loss          | 10        | Business math            |
+| Simple Interest        | 10        | Time-value calculations  |
+| Compound Interest      | 10        | Exponential growth       |
+| Ratio & Proportion     | 10        | Comparisons              |
+| Time & Work            | 10        | Productivity problems    |
+| Time, Speed & Distance | 10        | Motion problems          |
+| Averages               | 10        | Mean calculations        |
+| Ages                   | 10        | Age-based problems       |
 
 ##### Verbal Ability (6 Topics)
-| Topic | Questions | Description |
-|-------|-----------|-------------|
-| Reading Comprehension | 10 | Passage analysis |
-| Synonyms | 10 | Word meanings |
-| Antonyms | 10 | Opposite meanings |
-| Sentence Correction | 10 | Grammar |
-| Para Jumbles | 10 | Ordering |
-| Analogies | 10 | Relationships |
+
+| Topic                 | Questions | Description       |
+| --------------------- | --------- | ----------------- |
+| Reading Comprehension | 10        | Passage analysis  |
+| Synonyms              | 10        | Word meanings     |
+| Antonyms              | 10        | Opposite meanings |
+| Sentence Correction   | 10        | Grammar           |
+| Para Jumbles          | 10        | Ordering          |
+| Analogies             | 10        | Relationships     |
 
 ##### Logical Reasoning (6 Topics)
-| Topic | Questions | Description |
-|-------|-----------|-------------|
-| Series & Sequences | 10 | Patterns |
-| Analogies | 10 | Relationships |
-| Classification | 10 | Odd one out |
-| Coding-Decoding | 10 | Codes |
-| Blood Relations | 10 | Family |
-| Direction Sense | 10 | Navigation |
-| Syllogism | 10 | Logic |
-| Arrangements | 10 | Seating |
+
+| Topic              | Questions | Description   |
+| ------------------ | --------- | ------------- |
+| Series & Sequences | 10        | Patterns      |
+| Analogies          | 10        | Relationships |
+| Classification     | 10        | Odd one out   |
+| Coding-Decoding    | 10        | Codes         |
+| Blood Relations    | 10        | Family        |
+| Direction Sense    | 10        | Navigation    |
+| Syllogism          | 10        | Logic         |
+| Arrangements       | 10        | Seating       |
 
 #### Question Structure
 
@@ -936,9 +963,9 @@ interface Question {
     C: string;
     D: string;
   };
-  correctAnswer: 'A' | 'B' | 'C' | 'D';
+  correctAnswer: "A" | "B" | "C" | "D";
   explanation: string;
-  difficulty: 'Easy' | 'Medium' | 'Hard';
+  difficulty: "Easy" | "Medium" | "Hard";
 }
 ```
 
@@ -964,7 +991,7 @@ interface TopicInfo {
 {
   id: "number-system",
   name: "Number System",
-  description: "Foundation of mathematics covering different types of 
+  description: "Foundation of mathematics covering different types of
                numbers and their properties",
   formulas: [
     "HCF × LCM = Product of two numbers",
@@ -975,7 +1002,7 @@ interface TopicInfo {
   ],
   shortcuts: [
     "For divisibility by 9: Sum of digits should be divisible by 9",
-    "For divisibility by 11: Alternate sum of digits should be 0 or 
+    "For divisibility by 11: Alternate sum of digits should be 0 or
      divisible by 11",
     "Unit digit pattern repeats every 4 powers for most numbers",
     "Perfect squares end only in 0,1,4,5,6,9",
@@ -996,32 +1023,32 @@ Company-specific preparation for major IT companies.
 
 #### Supported Companies
 
-| Company | Focus | Difficulty | Prep Time |
-|---------|-------|------------|-----------|
-| **Accenture** | Aptitude + Coding | Easy | 5-6 days |
-| **TCS** | Aptitude + Verbal | Hard | 6-8 days |
-| **Infosys** | Aptitude + Verbal | Medium | 5-7 days |
-| **Cognizant** | Aptitude + Coding | Easy | 5-6 days |
-| **Wipro** | Technical + Aptitude | Easy | 5-6 days |
-| **CapGemini** | Technical + Pseudo-code | Hard | 5-6 days |
+| Company       | Focus                   | Difficulty | Prep Time |
+| ------------- | ----------------------- | ---------- | --------- |
+| **Accenture** | Aptitude + Coding       | Easy       | 5-6 days  |
+| **TCS**       | Aptitude + Verbal       | Hard       | 6-8 days  |
+| **Infosys**   | Aptitude + Verbal       | Medium     | 5-7 days  |
+| **Cognizant** | Aptitude + Coding       | Easy       | 5-6 days  |
+| **Wipro**     | Technical + Aptitude    | Easy       | 5-6 days  |
+| **CapGemini** | Technical + Pseudo-code | Hard       | 5-6 days  |
 
 #### Company Profiles
 
 ```typescript
 const companyDetails = {
-  'accenture': { 
-    focus: 'Aptitude + Coding', 
-    prepTime: '5–6 days', 
-    contentTypes: ['Aptitude', 'Technical', 'Previous Papers'], 
-    difficulty: 'Easy', 
-    idealFor: 'Freshers' 
+  accenture: {
+    focus: "Aptitude + Coding",
+    prepTime: "5–6 days",
+    contentTypes: ["Aptitude", "Technical", "Previous Papers"],
+    difficulty: "Easy",
+    idealFor: "Freshers",
   },
-  'tcs': { 
-    focus: 'Aptitude + Verbal', 
-    prepTime: '6–8 days', 
-    contentTypes: ['Aptitude', 'Verbal', 'Previous Papers'], 
-    difficulty: 'Hard', 
-    idealFor: 'Strong Aptitude' 
+  tcs: {
+    focus: "Aptitude + Verbal",
+    prepTime: "6–8 days",
+    contentTypes: ["Aptitude", "Verbal", "Previous Papers"],
+    difficulty: "Hard",
+    idealFor: "Strong Aptitude",
   },
   // ... more companies
 };
@@ -1030,6 +1057,7 @@ const companyDetails = {
 #### Interview Patterns
 
 ##### Accenture
+
 ```
 Round 1: Aptitude Test (60 mins)
    ├── Quantitative Reasoning
@@ -1052,6 +1080,7 @@ Round 4: HR Interview (20-30 mins)
 ```
 
 ##### TCS (NQT Pattern)
+
 ```
 National Qualifier Test (NQT):
    ├── Part A: Foundation (85 mins, 85 questions)
@@ -1066,13 +1095,13 @@ National Qualifier Test (NQT):
 
 #### Company Comparison
 
-| Feature | Cognizant | Wipro | Infosys | Accenture | CapGemini | TCS |
-|---------|-----------|-------|---------|-----------|-----------|-----|
-| Aptitude | Easy | Easy | Medium | Easy | Hard | Hard |
-| Technical | Medium | Medium | Low | Medium | High | Low |
-| Coding | Yes | Yes | Optional | Yes | Yes | No |
-| Verbal | Medium | Low | High | Low | Low | Medium |
-| Fresher Friendly | ✓ | ✓ | ✓ | ✓ | ✗ | ✓ |
+| Feature          | Cognizant | Wipro  | Infosys  | Accenture | CapGemini | TCS    |
+| ---------------- | --------- | ------ | -------- | --------- | --------- | ------ |
+| Aptitude         | Easy      | Easy   | Medium   | Easy      | Hard      | Hard   |
+| Technical        | Medium    | Medium | Low      | Medium    | High      | Low    |
+| Coding           | Yes       | Yes    | Optional | Yes       | Yes       | No     |
+| Verbal           | Medium    | Low    | High     | Low       | Low       | Medium |
+| Fresher Friendly | ✓         | ✓      | ✓        | ✓         | ✗         | ✓      |
 
 ---
 
@@ -1096,7 +1125,7 @@ Live job opportunities with automated scraping.
 
 ```javascript
 // server/cron/scheduler.js
-const scheduler = require('./cron/scheduler');
+const scheduler = require("./cron/scheduler");
 
 // Initialize placement drive scheduler
 scheduler.init();
@@ -1129,7 +1158,7 @@ interface PlacementDrive {
   };
   selectionProcess: string[];
   applicationDeadline: Date;
-  status: 'Open' | 'Closing Soon' | 'Closed';
+  status: "Open" | "Closing Soon" | "Closed";
   postedAt: Date;
 }
 ```
@@ -1144,13 +1173,13 @@ Professional resume creation with ATS optimization.
 
 ```typescript
 interface ResumeBuilderData {
-  contact: ContactInfo;      // Name, phone, email, LinkedIn, GitHub
-  summary: SummaryInfo;      // Professional summary
-  skills: SkillsInfo;        // Technical & soft skills
-  experience: ExperienceItem[];  // Work history
-  projects: ProjectItem[];       // Personal/academic projects
-  education: EducationItem[];    // Academic qualifications
-  certifications: CertificationItem[];  // Professional certs
+  contact: ContactInfo; // Name, phone, email, LinkedIn, GitHub
+  summary: SummaryInfo; // Professional summary
+  skills: SkillsInfo; // Technical & soft skills
+  experience: ExperienceItem[]; // Work history
+  projects: ProjectItem[]; // Personal/academic projects
+  education: EducationItem[]; // Academic qualifications
+  certifications: CertificationItem[]; // Professional certs
   saved: boolean;
 }
 ```
@@ -1173,11 +1202,11 @@ interface ContactInfo {
 
 ```typescript
 interface ExperienceItem {
-  role: string;        // Job title
-  company: string;     // Company name
-  location: string;    // City/Remote
-  start: string;       // YYYY-MM format
-  end: string;         // YYYY-MM or empty for "Present"
+  role: string; // Job title
+  company: string; // Company name
+  location: string; // City/Remote
+  start: string; // YYYY-MM format
+  end: string; // YYYY-MM or empty for "Present"
   description: string; // Bullet points (use \n for line breaks)
 }
 ```
@@ -1186,8 +1215,8 @@ interface ExperienceItem {
 
 ```typescript
 interface ProjectItem {
-  title: string;       // Project name
-  url?: string;        // GitHub/Live link
+  title: string; // Project name
+  url?: string; // GitHub/Live link
   description: string; // Bullet points
 }
 ```
@@ -1205,9 +1234,9 @@ const sampleResume: ResumeBuilderData = {
     location: 'Pune, India',
   },
   summary: {
-    summary: 'Passionate Computer Engineering student with strong 
-             foundation in full-stack web development. Experienced 
-             in building responsive web applications using React, 
+    summary: 'Passionate Computer Engineering student with strong
+             foundation in full-stack web development. Experienced
+             in building responsive web applications using React,
              Next.js, and modern JavaScript.',
   },
   skills: {
@@ -1235,6 +1264,7 @@ Tools & Platforms: Git, GitHub, VS Code, Postman, Vercel`,
 #### Resume Templates
 
 Multiple professional templates available:
+
 - Modern Blue
 - Classic White
 - Creative Gradient
@@ -1281,12 +1311,12 @@ const skillCategories = {
 
 #### Proficiency Levels
 
-| Level | Description | Indicators |
-|-------|-------------|------------|
-| Beginner | Basic knowledge | 1-2 projects, limited use |
-| Intermediate | Solid understanding | 3-5 projects, regular use |
-| Advanced | Deep expertise | 5+ projects, production use |
-| Expert | Master-level | Teaching others, contributions |
+| Level        | Description         | Indicators                     |
+| ------------ | ------------------- | ------------------------------ |
+| Beginner     | Basic knowledge     | 1-2 projects, limited use      |
+| Intermediate | Solid understanding | 3-5 projects, regular use      |
+| Advanced     | Deep expertise      | 5+ projects, production use    |
+| Expert       | Master-level        | Teaching others, contributions |
 
 ---
 
@@ -1300,7 +1330,7 @@ Predictive analytics for interview success.
 interface TimeMachineData {
   resumeText: string;
   targetRole: string;
-  timeGoal: 30 | 60 | 90;  // days
+  timeGoal: 30 | 60 | 90; // days
   interviewScores: InterviewScores;
   strengths: string[];
   weaknesses: string[];
@@ -1313,12 +1343,12 @@ interface TimeMachineData {
 
 ```typescript
 interface InterviewScores {
-  technical: number;      // 0-100
-  communication: number;  // 0-100
-  confidence: number;     // 0-100
-  eyeContact: number;     // 0-100
+  technical: number; // 0-100
+  communication: number; // 0-100
+  confidence: number; // 0-100
+  eyeContact: number; // 0-100
   problemSolving: number; // 0-100
-  overall: number;        // Weighted average
+  overall: number; // Weighted average
 }
 ```
 
@@ -1346,14 +1376,14 @@ interface FuturePrediction {
 
 ```typescript
 interface FutureSalary {
-  estimate: string;       // "₹4.5 LPA"
+  estimate: string; // "₹4.5 LPA"
   range: {
-    min: number;          // 400000
-    max: number;          // 500000
+    min: number; // 400000
+    max: number; // 500000
   };
-  currency: string;       // "INR"
-  timeline: string;       // "6 months"
-  growth?: string;        // "+20%"
+  currency: string; // "INR"
+  timeline: string; // "6 months"
+  growth?: string; // "+20%"
   reasoning: string;
   factors: string[];
 }
@@ -1362,10 +1392,10 @@ interface FutureSalary {
 #### Success Probability Calculation
 
 ```
-Success Rate = (Technical × 0.30) + 
-               (Communication × 0.25) + 
-               (Confidence × 0.15) + 
-               (Aptitude × 0.20) + 
+Success Rate = (Technical × 0.30) +
+               (Communication × 0.25) +
+               (Confidence × 0.15) +
+               (Aptitude × 0.20) +
                (Experience × 0.10)
 ```
 
@@ -1386,30 +1416,31 @@ Comprehensive technical interview preparation with multiple practice modes.
 
 #### Practice Modes
 
-| Mode | Description | Best For |
-|------|-------------|----------|
-| **Coding Practice** | Write and execute code | Hands-on practice |
-| **Concept Explanation** | Learn theory with AI | Understanding concepts |
-| **Debugging Mode** | Fix buggy code | Error handling skills |
-| **Follow-Up Questions** | Deep dive into topics | Interview simulation |
-| **Mixed Mode** | Combination of all | Complete preparation |
+| Mode                    | Description            | Best For               |
+| ----------------------- | ---------------------- | ---------------------- |
+| **Coding Practice**     | Write and execute code | Hands-on practice      |
+| **Concept Explanation** | Learn theory with AI   | Understanding concepts |
+| **Debugging Mode**      | Fix buggy code         | Error handling skills  |
+| **Follow-Up Questions** | Deep dive into topics  | Interview simulation   |
+| **Mixed Mode**          | Combination of all     | Complete preparation   |
 
 #### Supported Domains
 
 ```typescript
 const DOMAINS = {
-  'dsa': 'Data Structures & Algorithms',
-  'dbms': 'Database Management Systems',
-  'os': 'Operating Systems',
-  'oop': 'Object-Oriented Programming',
-  'cn': 'Computer Networks',
-  'programming': 'Programming Languages'
+  dsa: "Data Structures & Algorithms",
+  dbms: "Database Management Systems",
+  os: "Operating Systems",
+  oop: "Object-Oriented Programming",
+  cn: "Computer Networks",
+  programming: "Programming Languages",
 };
 ```
 
 #### Coding Practice Mode
 
 Features:
+
 - **Monaco Editor** (VS Code editor)
 - **Multiple Languages** (JavaScript, Python, Java, C++)
 - **Test Cases** with expected output
@@ -1441,6 +1472,7 @@ interface CodingQuestion {
 #### Concept Explanation Mode
 
 AI-powered explanations with:
+
 - **Interactive Q&A** with GPT-4
 - **Visual Diagrams** for complex topics
 - **Real-world Examples**
@@ -1450,6 +1482,7 @@ AI-powered explanations with:
 #### Debugging Mode
 
 Fix buggy code with:
+
 - **Pre-written Buggy Code**
 - **Error Descriptions**
 - **Hints System**
@@ -1478,9 +1511,9 @@ interface TechPrepProgress {
 #### Scoring System
 
 ```
-Score = (Correctness × 0.50) + 
-        (Efficiency × 0.25) + 
-        (Code Quality × 0.15) + 
+Score = (Correctness × 0.50) +
+        (Efficiency × 0.25) +
+        (Code Quality × 0.15) +
         (Time Taken × 0.10)
 ```
 
@@ -1805,36 +1838,36 @@ docker-compose up -d
     "next": "^14.2.4",
     "react": "^18",
     "react-dom": "^18",
-    
+
     // Authentication
     "@clerk/nextjs": "^5.7.5",
     "@supabase/supabase-js": "^2.90.1",
-    
+
     // AI/ML
     "openai": "^4.6.0",
     "langchain": "^0.3.36",
     "@langchain/community": "^0.3.57",
     "retell-sdk": "^4.19.0",
     "retell-client-js-sdk": "^2.0.0",
-    
+
     // UI Components
     "@radix-ui/react-*": "various",
     "@nextui-org/react": "^2.4.6",
     "@mui/material": "^5.18.0",
     "lucide-react": "^0.294.0",
     "framer-motion": "^11.3.21",
-    
+
     // Styling
     "tailwindcss": "^3.3.0",
     "tailwind-merge": "^2.1.0",
     "clsx": "^2.0.0",
-    
+
     // Data Handling
     "@tanstack/react-query": "^5.17.15",
     "@tanstack/react-table": "^8.20.1",
     "zustand": "^5.0.9",
     "zod": "^3.22.4",
-    
+
     // PDF/Document
     "jspdf": "^3.0.4",
     "html2canvas": "^1.4.1",
@@ -1842,17 +1875,17 @@ docker-compose up -d
     "pdf-lib": "^1.17.1",
     "pdf-parse": "^1.1.1",
     "tesseract.js": "^6.0.1",
-    
+
     // Forms
     "react-hook-form": "^7.49.0",
     "@hookform/resolvers": "^3.3.2",
-    
+
     // Utilities
     "date-fns": "^3.6.0",
     "axios": "^1.6.7",
     "nanoid": "^5.0.4",
     "uuid": "^10.0.0",
-    
+
     // Backend
     "node-cron": "^3.0.3",
     "puppeteer": "^21.11.0"
@@ -1885,34 +1918,34 @@ docker-compose up -d
 
 ### Shadcn/UI Components Used
 
-| Component | Purpose |
-|-----------|---------|
-| Button | Actions and CTAs |
-| Card | Content containers |
-| Dialog | Modals and popups |
-| Dropdown Menu | Navigation menus |
-| Form | Form controls |
-| Input | Text inputs |
-| Label | Form labels |
-| Progress | Progress indicators |
-| Select | Dropdown selections |
-| Separator | Visual dividers |
-| Slider | Range inputs |
-| Switch | Toggle controls |
-| Tabs | Tab navigation |
-| Toast | Notifications |
-| Tooltip | Hover information |
+| Component     | Purpose             |
+| ------------- | ------------------- |
+| Button        | Actions and CTAs    |
+| Card          | Content containers  |
+| Dialog        | Modals and popups   |
+| Dropdown Menu | Navigation menus    |
+| Form          | Form controls       |
+| Input         | Text inputs         |
+| Label         | Form labels         |
+| Progress      | Progress indicators |
+| Select        | Dropdown selections |
+| Separator     | Visual dividers     |
+| Slider        | Range inputs        |
+| Switch        | Toggle controls     |
+| Tabs          | Tab navigation      |
+| Toast         | Notifications       |
+| Tooltip       | Hover information   |
 
 ### Custom Components
 
-| Component | File | Purpose |
-|-----------|------|---------|
-| SideMenu | `sideMenu.tsx` | Navigation sidebar |
-| Navbar | `navbar.tsx` | Top navigation |
+| Component    | File               | Purpose              |
+| ------------ | ------------------ | -------------------- |
+| SideMenu     | `sideMenu.tsx`     | Navigation sidebar   |
+| Navbar       | `navbar.tsx`       | Top navigation       |
 | CompanyLogos | `CompanyLogos.tsx` | Company logo display |
-| SimpleWebCam | `SimpleWebCam.tsx` | Video capture |
-| ThemeToggle | `theme-toggle.tsx` | Dark/light mode |
-| Providers | `providers.tsx` | Context providers |
+| SimpleWebCam | `SimpleWebCam.tsx` | Video capture        |
+| ThemeToggle  | `theme-toggle.tsx` | Dark/light mode      |
+| Providers    | `providers.tsx`    | Context providers    |
 
 ---
 
@@ -2030,8 +2063,6 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
 **Made with ❤️ for aspiring professionals worldwide**
 
-
-
 ## 🙏 Acknowledgments
 
 - [Retell AI](https://retellai.com/) for voice AI technology
@@ -2046,4 +2077,3 @@ If you find this project helpful, please consider giving it a ⭐ on GitHub!
 ### Made with ❤️ by Siddhesh Patil
 
 [⬆ Back to Top](#-interviewai)
-
