@@ -13,7 +13,7 @@
 
 **Interview.ai** is a comprehensive, enterprise-grade interview preparation platform that combines AI-powered mock interviews, gamified learning, aptitude training, soft skills development, resume building, and placement tracking into one seamless experience.
 
-🚀 [Live Demo](#) • 📖 [Documentation](#-table-of-contents) • 🤝 [Contributing](CONTRIBUTING.md)
+🚀 [Live Demo](#) 
 
 ---
 
