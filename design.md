@@ -6,7 +6,7 @@ Interview.ai follows a modern full-stack architecture with clear separation of c
 
 ### 1.1 Architecture Diagram
 
-![System Architecture](Demo_Images/Figure_4_3_1_System_Architecture_Latest.drawio.png)
+![System Architecture](System%20Architecture.png)
 
 **Figure 1.1**: High-Level System Architecture of Interview.ai Platform
 
